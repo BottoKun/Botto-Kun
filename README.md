@@ -1,7 +1,7 @@
 # ぼっと君
 万能ぼっと君です。
 
-しとお都市(discordサーバー){https://discordapp.com/invite/AD8DrrD}専用に制作されたdiscordボットなのでコマンドの多くはしとお都市用にセットしてあります。
+しとお都市[discordサーバー](https://discordapp.com/invite/AD8DrrD)専用に制作されたdiscordボットなのでコマンドの多くはしとお都市用にセットしてあります。
 まだ製作途中なので温かい目で見守っていてください。
 
 コマンド一覧：
